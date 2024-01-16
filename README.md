@@ -1,12 +1,12 @@
 <div align='center'>
 
-Hello :strawberry: 你好 :strawberry: こんにちは
+Hello :cactus: 你好 :cocktail: こんにちは :fried_shrimp:
 
 </div>
 
 <div align='center'>
 
-#![it's me](readme.gif)
+![GIF Description](https://media1.giphy.com/media/XGOnPgiiqcwb1JEQJN/giphy.gif?cid=ecf05e477rtht7466utmv8i3gqubtodfwswc0oo23awlde59&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 </div>
 <div align='center'>
