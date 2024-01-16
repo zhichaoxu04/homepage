@@ -9,7 +9,7 @@ Hello :cactus: 你好 :cocktail: こんにちは :fried_shrimp:
 </div>
 
 <div align='center'>
-    <a href='https://www.linkedin.com/in/zhichao-xu-0b2898176/'>
+    <a href='https://www.linkedin.com/in/zhichao-xu-zacharyxu/'>
         <img width="26" height="26" src="https://img.icons8.com/metro/26/000000/linkedin.png" alt="LinkedIn"/>
     </a>
 </div>
